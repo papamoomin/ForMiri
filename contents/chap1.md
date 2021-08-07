@@ -1,4 +1,4 @@
-[뒤로](https://github.com/papamoomin/ForMiri/README.md)  
+[뒤로](https://github.com/papamoomin/ForMiri/blob/master/contents/chap1.md)  
 
 <a name="Top"></a>
 # 목차
@@ -18,6 +18,8 @@
 <br><br><br>
 
 ## Hello, World!
+
+<a name="Chap1-1"></a>
 
 ```c++
 int main()
