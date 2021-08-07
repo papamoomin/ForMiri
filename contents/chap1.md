@@ -85,13 +85,11 @@ int main()
 {
     std::cout << "Hello";
 	std::cout << "World!";
-	std::cout << "Hello
-	World!";
 }
 ```
 <a name="Chap1-2"></a>
  - 제가 만약 이런 코드를 짰다면, 실행 시 결과가 어떻게 나올까요?  
- 생각해봅시다! [정답은 여기](https://github.com/papamoomin/ForMiri/blob/master/contents/Chap1_Answer/1.md)
+ 생각해봅시다! [정답은 여기](https://github.com/papamoomin/ForMiri/blob/master/contents/Chap1_Answer/2.md)
 
  <br>
 
