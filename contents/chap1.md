@@ -38,6 +38,6 @@ int main()
  사실 제가 직접 짜도 1달 뒤에 보면 이거 왜 이렇게 했을까.. 무슨 이유가 있었나.. 싶거든요. 1달이 뭔가요 며칠 뒤에 봐도 그럴 때가 있어요.   
  그래서 컴퓨터는 읽지 못하고, 사람만 읽는 용도의 무언가가 필요했어요. 이 코드 이런 이유에서 짰어요! 라는 걸 기록하기 위해서요. 그게 주석이에요!
 
-  - 이 프로그램을 실행하면 무슨 일이 일어날까요? 생각해봅시다. [정답은 여기](https://github.com/papamoomin/ForMiri/contents/Chap1_Answer/1.md)
+  - 이 프로그램을 실행하면 무슨 일이 일어날까요? 생각해봅시다. [정답은 여기](https://github.com/papamoomin/ForMiri/blob/master/contents/Chap1_Answer/1.md)
 
 <br>
