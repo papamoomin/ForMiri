@@ -28,7 +28,7 @@
 ```c++
 int main()
 { 
-    // 최소한의 C++ 프로그램
+	// 최소한의 C++ 프로그램
 }
 ```
  - 이게 가장 <b>최소한의 프로그램</b>입니다. 이런 꼴을 한 것을 <b>함수</b>라고 불러요.  
@@ -54,7 +54,7 @@ int main()
 #include<iostream>
 int main()
 {
-    std::cout << "Hello, World!";
+	std::cout << "Hello, World!";
 }
 ```
  - 네! 바로 위에 큰 글씨로 적어뒀고, 코딩을 안해본 사람도 한 번씩은 공대 개그 등에서 들어봤다는 그 <b>Hello World</b>입니다!
@@ -83,7 +83,7 @@ int main()
 #include<iostream>
 int main()
 {
-    std::cout << "Hello";
+	std::cout << "Hello";
 	std::cout << "World!";
 }
 ```
