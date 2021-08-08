@@ -104,11 +104,11 @@ int main()
 #include<iostream>
 int main()
 {
-	std::cout << "줄을 바꾸려면" << endl;
+	std::cout << "줄을 바꾸려면" << std::endl;
 	std::cout << "이렇게 합니다.";
 }
 ```
-첫번째 방법입니다. 끝에 <b>```<< endl```</b> 을 붙여주는거에요!  
+첫번째 방법입니다. 끝에 <b>```<< std::endl```</b> 을 붙여주는거에요!  
 <b>endl은 end line의 약자</b>랍니다. 줄이 끝났으니 엔터를 쳐주세요! 하는거죠.  
 이렇게 하면 결과는
 
@@ -124,11 +124,11 @@ int main()
 #include<iostream>
 int main()
 {
-	std::cout << "내가 줄을" << endl;
-	std::cout << "계속 바꾸고" << endl;
-	std::cout << "싶어서 이렇게" << endl;
-	std::cout << "글을 적고 있자니" << endl;
-	std::cout << "쓸 말이 없지만 뭐든" << endl;
+	std::cout << "내가 줄을" << std::endl;
+	std::cout << "계속 바꾸고" << std::endl;
+	std::cout << "싶어서 이렇게" << std::endl;
+	std::cout << "글을 적고 있자니" << std::endl;
+	std::cout << "쓸 말이 없지만 뭐든" << std::endl;
 	std::cout << "적게 되는 것 같습니다.";
 }
 ```
@@ -174,7 +174,7 @@ int main()
 아래 문제의 조건을 충족하는 코드를 작성해 보내주세요!
 
 1. Hello, Manong! 을 출력하는 코드를 작성해주세요.
-2. 좋아하는 시, 소설, 노래 가사 중 가장 좋아하는 구절 몇 줄을 골라 줄바꿈을 포함해 출력할 수 있도록 작성해주세요.
+2. 좋아하는 시, 소설, 노래 가사 중 가장 좋아하는 구절 몇 줄을 골라 줄바꿈을 포함해 출력할 수 있도록 작성해주세요. 결과가 어떻게 나올지도 함께 적어주세요.
 
 
 [위로](#Top)
